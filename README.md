@@ -1,2 +1,2 @@
-# StudentCourseRegister-
+# StudentCourseRegister
 student registration platform
